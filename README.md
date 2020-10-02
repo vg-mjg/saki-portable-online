@@ -25,7 +25,10 @@
 3. Change PRO ad hoc server IP address (enter ZeroTier Managed IP of host device)
 4. Port Offset change from "0" to something else, everyone must use the same number
 5. Settings > System > uncheck "Fast memory"
+6. Enable network chat
+   * In System > PSP settings > Change nickname, you can change the chat nick
 6. If host, Enable built-in PRO Ad Hoc server
+
 
 ## Saki setup
 1. Start Saki
