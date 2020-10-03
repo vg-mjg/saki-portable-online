@@ -39,6 +39,5 @@
 3. Select common room
 
 ## Bugs
-1. Room 1 doesn't work
-2. Moving the cursor too fast freezes the game
+1. Moving the cursor too fast freezes the game
 
