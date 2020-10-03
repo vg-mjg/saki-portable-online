@@ -1,7 +1,7 @@
 # saki-portable-online
 
 1. Download PPSSPP emulator https://www.ppsspp.org/
-2. Download Saki ISO https://www.emuparadise.me/PSP_ISOs/Saki_Portable_(Japan)/158534
+2. Download Saki ISO https://cdromance.com/psp/saki-portable-jpn/
 3. Download ZeroTier https://www.zerotier.com/
 
 ## ZeroTier setup for host
