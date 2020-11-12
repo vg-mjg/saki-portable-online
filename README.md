@@ -1,11 +1,11 @@
 # saki-portable-online
 
 1. Download PPSSPP emulator https://www.ppsspp.org/
-2. Download Saki ISO (tested and it works)
+2. Download Saki ISO 
    * https://cdromance.com/psp/saki-portable-jpn/
    * https://www.emuparadise.me/PSP_ISOs/Saki_Portable_(Japan)/158534
    * https://mega.nz/file/HPZElJoS#KiKpS7fZXf6ujD_i2l1HK15Pw4beXpZMxt7_U3RMHlk
-3. Download the better Saki game (achiga) and the complete save  (not tested yet)
+3. Download the better Achiga game and the complete save
    * https://cdromance.com/psp/saki-achiga-hen-episode-of-side-a-portable-jpn/
    * https://gamefaqs.gamespot.com/boards/712915-saki-achiga-hen-episode-of-side-a-portable/67548346
 4. Download ZeroTier https://www.zerotier.com/
@@ -37,9 +37,9 @@
 
 
 ## Saki setup
-1. Start Saki
-2. Open multiplayer (4th option in main menu)
-3. Select common room
+1. Start Saki/Achiga
+2. Open multiplayer (4th option in main menu for Saki, 3rd for Achiga)
+3. Select common table 
 
 ## Bugs
 1. Moving the cursor too fast freezes the game
