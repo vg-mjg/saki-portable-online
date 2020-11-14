@@ -45,7 +45,7 @@
 1. Moving the cursor too fast freezes the game
 2. Table 1 doesn't work?
 
-## Achiga 
+## Achiga setup
 ### Menu translation
 ![Try](https://raw.githubusercontent.com/watterle/saki-portable-online/main/menus.jpg "menu")
 ### Superpowers translation
