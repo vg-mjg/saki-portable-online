@@ -1,10 +1,6 @@
 # saki-portable-online
 
 1. Download PPSSPP emulator https://www.ppsspp.org/
-2. Download Saki ISO 
-   * https://cdromance.com/psp/saki-portable-jpn/
-   * https://www.emuparadise.me/PSP_ISOs/Saki_Portable_(Japan)/158534
-   * https://mega.nz/file/HPZElJoS#KiKpS7fZXf6ujD_i2l1HK15Pw4beXpZMxt7_U3RMHlk
 3. Download the better Achiga game and the complete save
    * https://cdromance.com/psp/saki-achiga-hen-episode-of-side-a-portable-jpn/
    * https://gamefaqs.gamespot.com/boards/712915-saki-achiga-hen-episode-of-side-a-portable/67548346
