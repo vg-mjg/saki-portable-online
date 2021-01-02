@@ -35,14 +35,19 @@
 ## Saki setup
 1. Start Saki/Achiga
 2. Open multiplayer (4th option in main menu for Saki, 3rd for Achiga)
-3. Select common table 
+3. Select common table
 
 ## Bugs
 1. Moving the cursor too fast freezes the game
 2. Table 1 doesn't work?
 
-## Achiga setup
+## Achiga setup and translation
 ### Menu translation
-![Try](https://raw.githubusercontent.com/watterle/saki-portable-online/main/menus.jpg "menu")
+![mainmenu](https://raw.githubusercontent.com/watterle/saki-portable-online/main/menus.jpg "mainmenu")
+![lobbymenu](https://raw.githubusercontent.com/watterle/saki-portable-online/main/143.jpg "lobbymenu")
+![rulesmenu](https://raw.githubusercontent.com/watterle/saki-portable-online/main/148.jpg "rulesmenu")
+
+
+
 ### Superpowers translation
 ![Try](https://raw.githubusercontent.com/watterle/saki-portable-online/main/saki%20psp%20abilities.png "superpowers")
