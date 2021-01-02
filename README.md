@@ -44,8 +44,8 @@
 ## Achiga setup and translation
 ### Menu translation
 ![mainmenu](https://raw.githubusercontent.com/watterle/saki-portable-online/main/menus.jpg "mainmenu")
-![lobbymenu](https://raw.githubusercontent.com/watterle/saki-portable-online/main/143.jpg "lobbymenu")
-![rulesmenu](https://raw.githubusercontent.com/watterle/saki-portable-online/main/148.jpg "rulesmenu")
+![lobbymenu](https://raw.githubusercontent.com/watterle/saki-portable-online/main/143.png "lobbymenu")
+![rulesmenu](https://raw.githubusercontent.com/watterle/saki-portable-online/main/148.png "rulesmenu")
 
 
 
