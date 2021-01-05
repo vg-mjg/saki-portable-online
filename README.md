@@ -55,8 +55,7 @@
 
 
 ### Superpowers translation
-Achiga
-
+#### Achiga
 Matsumi Kuro (doraslut)
 opponents can't draw any dora
 you are more likely to draw dora and triplets and get dora in haipai
@@ -77,7 +76,7 @@ activates during the 3rd row of discards
 opponents get worse draws while she gets better draws
 opponents' powers become weaker
 
-Senriyama
+#### Senriyama
 
 Onjouji Toki
 can see her next draw (this can not be shifted using calls)
@@ -101,7 +100,7 @@ activates in even rounds (E2, E4, ...)
 can see the final shape of here hand, and draws towards it
 the final shape is typically mangan to baiman
 
-Shiraitodai
+#### Shiraitodai
 
 Miyanaga Teru
 gets good haipai after winning a hand
@@ -124,7 +123,7 @@ Oohoshi Awai (blondie)
 opponents get worse haipai
 when not in 1st place, likely to get double riichi with late game rinshan
 
-Shindouji
+#### Shindouji
 
 Hanada Kirame (subara)
 can't get shadowrealmed
@@ -144,7 +143,7 @@ improved draws
 Tsuruta Himeko (vibrator)
 as above but no improved draws
 
-Kiyosumi
+#### Kiyosumi
 
 Kataoka Yuuki (tacos)
 improved draws during the first 3 hands
@@ -169,7 +168,7 @@ cancels the power of opponents whose discards she kans
 likely to have kan of shaa in haipai
 draws are biased towards triplets
 
-Ryyumonbuchi
+#### Ryyumonbuchi
 
 Inoue Jun (tomboy)
 after calling, she gets a good draw while each opponent gets a bad draw
@@ -190,7 +189,7 @@ likely to have an honor triplet in haipai
 can tell when others are in tenpai
 slightly improved draws
 
-Kazekoshi
+#### Kazekoshi
 
 Fukuji Mihoko (kyaputen)
 activates in the 8th hand after the start of the hanchan
@@ -200,7 +199,7 @@ Ikeda Kana (nyagger)
 activates whenever below 10k points
 guaranteed to get a good haipai, biased toward chanta
 
-Tsuruga
+#### Tsuruga
 
 Kanbara Satomi (wahaha)
 whenever her haipai has at least 2 dora, she will go "wahaha" (negative power)
@@ -215,7 +214,7 @@ activates in the 7th hand after the start of the hanchan
 opponents can't call her tiles and her riichi declaration becomes undetectable
 however, furiten still applies as normal
 
-Others
+#### Others
 
 Kobashiri Yae (drill hair)
 when she calls riichi, other players get better draws (negative power)
