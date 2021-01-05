@@ -2,7 +2,7 @@
 
 1. Download PPSSPP emulator https://www.ppsspp.org/
 3. Download the better Achiga game and the complete save
-   * https://cdromance.com/psp/saki-achiga-hen-episode-of-side-a-portable-jpn/
+   * https://mega.nz/file/2KYTwCDC#51AUToCsjHIlUXWE8Ng80Ld_UwtClkc0Sym5wZ3vl8k
    * https://gamefaqs.gamespot.com/boards/712915-saki-achiga-hen-episode-of-side-a-portable/67548346
 4. Download ZeroTier https://www.zerotier.com/
 
@@ -41,6 +41,9 @@
 1. Moving the cursor too fast freezes the game
 2. Table 1 doesn't work?
 3. If error, run ppsspp as administrator/sudo
+4. Kuro is banned from friendlies due to completely bullshit power
+5. Toki and Teru should read waits but this seems to be bugged (needs a v1.01 patch?)
+
 
 ## Achiga setup and translation
 ### Menu translation
