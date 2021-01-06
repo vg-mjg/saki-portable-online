@@ -4,7 +4,7 @@
 3. Download the better Achiga game and the complete save
    * https://mega.nz/file/2KYTwCDC#51AUToCsjHIlUXWE8Ng80Ld_UwtClkc0Sym5wZ3vl8k
    * https://mega.nz/file/WXIziIzL#V-F1dI6cYVkn2PuBjvYkXDk2jJGbEUGxV8ymsIzNGjE
-     * Savedata goes in memstick\PSP\SAVEDATA in the PPSSPP folder (found in ./config for linux users)
+     * Savedata goes in memstick\PSP\SAVEDATA in the PPSSPP folder (found in ./config for linux users). Open story mode to check if it is installed correctly. (You can also install it from PPSSPP settings probably)
 4. Download ZeroTier https://www.zerotier.com/
 
 ## ZeroTier setup for host
