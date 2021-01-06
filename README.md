@@ -14,23 +14,23 @@
 3. Networks > Create Network
    * Write down the Network ID
 4. Set it as public
+5. Write down your Managed IP and share it with the others
 
 ## ZeroTier setup for everybody
 1. Open the program
 2. Join Network
    * Check all the things
    * Insert the Network ID given by host
-3. If host, write down your Managed IP and share it with the others
 
 ## PPSSPP setup - Networking tab
 1. Enable Networking/WLAN
 2. Send Discord "Rich Presence" information
-3. Change PRO ad hoc server IP address (enter ZeroTier Managed IP of host device)
-4. Port Offset change from "0" to something else, everyone must use the same number
+3. Set PRO ad hoc server IP address (enter ZeroTier Managed IP of host device)
+4. Port Offset change from "0" to something else, everyone must use the same number (/mjg/ "standard" is 100)
 5. Settings > System > uncheck "Fast memory"
 6. Enable network chat
    * In System > PSP settings > Change nickname, you can change the chat nick
-6. If host, Enable built-in PRO Ad Hoc server
+7. If host, Enable built-in PRO Ad Hoc server
 
 
 ## Saki setup
