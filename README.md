@@ -3,7 +3,8 @@
 1. Download PPSSPP emulator https://www.ppsspp.org/
 3. Download the better Achiga game and the complete save
    * https://mega.nz/file/2KYTwCDC#51AUToCsjHIlUXWE8Ng80Ld_UwtClkc0Sym5wZ3vl8k
-   * https://gamefaqs.gamespot.com/boards/712915-saki-achiga-hen-episode-of-side-a-portable/67548346
+   * https://mega.nz/file/WXIziIzL#V-F1dI6cYVkn2PuBjvYkXDk2jJGbEUGxV8ymsIzNGjE
+     * Savedata goes in memstick\PSP\SAVEDATA in the PPSSPP folder (found in ./config for linux users)
 4. Download ZeroTier https://www.zerotier.com/
 
 ## ZeroTier setup for host
