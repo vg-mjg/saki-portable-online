@@ -40,11 +40,13 @@
 
 ## Bugs
 1. Moving the cursor too fast freezes the game
-2. Table 1 doesn't work?
-3. If error, try to run ppsspp as administrator/sudo
-4. Kuro is banned from friendlies due to completely bullshit power
-5. Toki and Teru should read waits but this seems to be bugged (needs a v1.01 patch?)
+2. If error, try to run ppsspp as administrator/sudo
+3. Toki and Teru should read waits but this seems to be bugged (needs a v1.01 patch)
+4. Can't reconnect after disconnection (?)
+5. AFK host stops people from joining (?)
 
+## Tierlist
+1. Kuro banned due to completely bullshit power
 
 ## Achiga setup and translation
 ### Menu translation
