@@ -58,7 +58,7 @@
 
 
 ### Superpowers translation
-[Infopic](https://raw.githubusercontent.com/watterle/saki-portable-online/main/1609976207723.png)
+[Infopic (imprecise)](https://raw.githubusercontent.com/watterle/saki-portable-online/main/1609976207723.png)
 
 #### Achiga
 Matsumi Kuro (doraslut)  
