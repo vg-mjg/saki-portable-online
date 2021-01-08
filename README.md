@@ -44,6 +44,7 @@
 3. Toki and Teru should read waits but this seems to be bugged (needs a v1.01 patch)
 4. Can't reconnect after disconnection (?)
 5. AFK host stops people from joining (?)
+6. Can't handle too many connections (?)
 
 ## Tierlist
 1. Kuro banned due to completely bullshit power
