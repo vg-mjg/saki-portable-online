@@ -48,6 +48,7 @@
 
 ## Tierlist
 1. Kuro banned due to completely bullshit power
+   - Punish Kuro players by using Saki
 
 ## Achiga setup and translation
 ### Menu translation
