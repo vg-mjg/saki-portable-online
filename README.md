@@ -20,7 +20,8 @@
 1. Open the program
 2. Join Network
    * Check all the things
-   * Insert the Network ID given by host
+   * Insert the Network ID given by host  
+
 [Screenshot (not host)](https://raw.githubusercontent.com/watterle/saki-portable-online/main/208.png)
 
 ## PPSSPP setup - Networking tab
@@ -31,7 +32,8 @@
 5. Settings > System > uncheck "Fast memory"
 6. Enable network chat
    * In System > PSP settings > Change nickname, you can change the chat nick
-7. If host, Enable built-in PRO Ad Hoc server
+7. If host, Enable built-in PRO Ad Hoc server  
+
 [Screenshot (not host)](https://raw.githubusercontent.com/watterle/saki-portable-online/main/207.png)
 
 
