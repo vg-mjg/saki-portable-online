@@ -20,7 +20,7 @@
 ## ZeroTier setup for everybody
 1. Open the program
 2. Join Network
-   * Check all the things
+   * Enable all the things (global ip, managed ip, etc...)
    * Insert the Network ID given by host  
 
 [Screenshot (not host)](https://raw.githubusercontent.com/watterle/saki-portable-online/main/208.png)
