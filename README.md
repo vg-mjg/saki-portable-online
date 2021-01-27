@@ -11,7 +11,7 @@ Guide on how to get achiga psp game to work online on the ppsspp emulator. The s
    * You need to restart the PC after the installation or it won't work
 
 ## ZeroTier setup for host
-1. Make an account
+1. Make an account on https://www.zerotier.com/
 2. Account > Create token
    * In the program, paste it in Preferences > API Key
 3. Networks > Create Network
