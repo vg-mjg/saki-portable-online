@@ -4,8 +4,8 @@ Guide on how to get achiga psp game to work online on the ppsspp emulator. The s
 ## Downloads
 1. Download PPSSPP emulator https://www.ppsspp.org/
 3. Download the better Achiga game and the complete save
-   * https://mega.nz/file/2KYTwCDC#51AUToCsjHIlUXWE8Ng80Ld_UwtClkc0Sym5wZ3vl8k
-   * https://mega.nz/file/WXIziIzL#V-F1dI6cYVkn2PuBjvYkXDk2jJGbEUGxV8ymsIzNGjE
+   * [game ISO](https://mega.nz/file/2KYTwCDC#51AUToCsjHIlUXWE8Ng80Ld_UwtClkc0Sym5wZ3vl8k)
+   * [savefile](https://mega.nz/file/WXIziIzL#V-F1dI6cYVkn2PuBjvYkXDk2jJGbEUGxV8ymsIzNGjE)
      * Savedata goes in memstick\PSP\SAVEDATA in the PPSSPP folder (found in ./config for linux users). Open story mode to check if it is installed correctly. (You can also install it from PPSSPP settings probably)
 4. Download ZeroTier https://www.zerotier.com/
    * You need to restart the PC after the installation or it won't work
