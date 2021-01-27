@@ -1,5 +1,7 @@
 # saki-portable-online
+Guide on how to get achiga psp game to work online on the ppsspp emulator. The same should apply to any psp game.
 
+## Downloads
 1. Download PPSSPP emulator https://www.ppsspp.org/
 3. Download the better Achiga game and the complete save
    * https://mega.nz/file/2KYTwCDC#51AUToCsjHIlUXWE8Ng80Ld_UwtClkc0Sym5wZ3vl8k
