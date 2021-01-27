@@ -24,6 +24,7 @@ Guide on how to get achiga psp game to work online on the ppsspp emulator. The s
 2. Join Network
    * Insert the Network ID given by host  
    * Enable all the things (global ip, managed ip, etc...)
+   * If it's working Windows should ask for a new network, accept it
 
 [Screenshot (not host)](https://raw.githubusercontent.com/watterle/saki-portable-online/main/208.png)
 
@@ -46,12 +47,12 @@ Guide on how to get achiga psp game to work online on the ppsspp emulator. The s
 3. Select common table
 
 ## Bugs
-1. Moving the cursor too fast freezes the game
-2. If error, try to run ppsspp as administrator/sudo
-3. Toki and Teru should read waits but this seems to be bugged (needs a v1.01 patch)
-4. Can't reconnect after disconnection (?)
-5. AFK host stops people from joining (?)
-6. Can't handle too many connections (?)
+1. If error, try to run ppsspp as administrator/sudo
+2. Toki and Teru should read waits but this seems to be bugged (needs a v1.01 patch)
+3. Can't reconnect after disconnection (?)
+4. AFK host stops people from joining (?)
+5. Can't handle too many connections (?)
+6. If ZeroTier troubles, remember to reboot the pc after the installation. And to disable VPN/firewall.
 
 ## Tierlist
 1. Kuro banned due to completely bullshit power
