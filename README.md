@@ -31,6 +31,7 @@ Guide on how to get achiga psp game to work online on the ppsspp emulator. The s
 ## PPSSPP setup - Networking tab
 1. Enable Networking/WLAN
 2. Send Discord "Rich Presence" information
+   * Probably not needed
 3. Set PRO ad hoc server IP address (enter ZeroTier Managed IP of host device)
 4. Port Offset change from "0" to something else, everyone must use the same number (/mjg/ "standard" is 100)
 5. Settings > System > uncheck "Fast memory"
