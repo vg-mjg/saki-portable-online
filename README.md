@@ -25,7 +25,7 @@ Guide on how to get achiga psp game to work online on the ppsspp emulator. The s
    * Insert the Network ID given by host  
    * Enable all the things (global ip, managed ip, etc...)
    * If it's working Windows should ask for a new network, accept it
-
+3. DISABLE VPN/FIREWALL
 [Screenshot (not host)](https://raw.githubusercontent.com/watterle/saki-portable-online/main/208.png)
 
 ## PPSSPP setup - Networking tab
