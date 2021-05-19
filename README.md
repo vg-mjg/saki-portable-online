@@ -56,10 +56,6 @@ Guide on how to get achiga psp game to work online on the ppsspp emulator. The s
 5. Can't handle too many connections (?)
 6. If ZeroTier troubles, remember to reboot the pc after the installation. And to disable VPN/firewall.
 
-## Tierlist
-1. Kuro banned due to completely bullshit power
-   - Punish Kuro players by using Saki
-
 ## Achiga setup and translation
 ### Menu translation
 ![mainmenu](https://raw.githubusercontent.com/watterle/saki-portable-online/main/menus.jpg "mainmenu")
